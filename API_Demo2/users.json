@@ -1,0 +1,28 @@
+{
+	"user1": {
+		"id": 1,
+		"firstname": "Fabio",
+		"lastname": "Valenzuela",
+		"email": "valenzuelaalejandro1@gmail.com"
+	},
+	"user3": {
+		"id": 3,
+		"firstname": "Mohfez",
+		"lastname": "Rahman",
+		"email": "mRahman@gmail.com"
+	},
+	"user4": {
+		"id": 4,
+		"firstname": "Nicholas",
+		"lastname": "Bechtel",
+		"email": "nicBectel@gmail.com"
+	},
+	"user5": {
+		"user5": {
+			"id": 5,
+			"firstname": "Rahaf",
+			"lastname": "Barakrat",
+			"email": "rBarakat@gmail.com"
+		}
+	}
+}
